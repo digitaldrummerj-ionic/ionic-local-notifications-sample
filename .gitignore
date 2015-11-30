@@ -4,3 +4,7 @@
 node_modules/
 platforms/
 plugins/
+.vs/
+bin/
+bld/
+changeList.json
